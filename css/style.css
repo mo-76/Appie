@@ -598,21 +598,21 @@ header nav .part-2 a:hover span {
     }
 }
 
-@media (min-width: 1200px) and (max-width: 2500px) {
+/* @media (min-width: 1200px) and (max-width: 2500px) {
     .welcome .part-2 img {
         width: 70%;
         right: calc(-5vw);
         bottom: 0;
     }
-}
+} */
 
-@media (min-width: 2500px) {
+/* @media (min-width: 2500px) {
     .welcome .part-2 img {
         width: 70%;
         right: calc(-5vw);
         bottom: 0;
     }
-}
+} */
 
 /* --------------------------------------
 ------------------ FEATURES SECTION -----
